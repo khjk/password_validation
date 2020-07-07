@@ -1,4 +1,4 @@
-# 강효정 Portpolio
+# 강효정 MARKUP PRACTICE
 ----
 ## WHO AM I?
 *I'm backend developer*
