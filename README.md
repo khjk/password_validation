@@ -1,9 +1,6 @@
-# 강효정 MARKUP PRACTICE
-----
+# 강효정 MARKDOWN PRACTICE
 ## WHO AM I?
 *I'm backend developer*
-
-----
 ##Reference
 see [first blog](https://blog.naver.com/begywjd)
 
